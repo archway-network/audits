@@ -8,3 +8,4 @@ Archway-Network official audit reports
 - [2023-06-05 - Oak Security - Rewards Module](/Oak%20Security/2023-06-05%20-%20Audit%20Report%20-%20Archway%20Rewards%20Module%20v1.0.pdf)
 - [2023-11-01 - Informal Systems - Vesting Contract (v2)](/Informal%20Systems/2023-11-01%20-%20Archway%202023-Q3.pdf)
 - [2024-02-08 - Informal Systems - Callbacks Module, CWFeeGrants Module](/Informal%20Systems/2024-02-08%20-%20Archway%202024-Q1.pdf)
+- [2024-05-16 - Informal Systems - CWICA Module, CWErrors Module](/Informal%20Systems/2024-05-16%20-%20Archway%202024-Q2.pdf)
